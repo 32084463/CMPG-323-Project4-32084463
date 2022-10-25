@@ -3,7 +3,6 @@
   "description": "Testing and automation on a web application before it can go onto production",
   "main": "Main.xaml",
   "dependencies": {
-    "System.Reflection.TypeExtensions": "[4.7.0]",
     "UiPath.Excel.Activities": "[2.12.3]",
     "UiPath.Mail.Activities": "[1.15.2]",
     "UiPath.System.Activities": "[22.4.5]",
